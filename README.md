@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Terry!
 
-<!--
-**terry-sharon/terry-sharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##   About Me
+I'm an IT student in Strathmore Univeersity
 
-Here are some ideas to get you started:
+##Skills & Tools
+**Languages**: HTML, CSS, PHP, C++, 
+**Databases**: MySQL
+**Tools**: VSCode, Currently learning Git
+In the process of learning Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Projects
+-[BudgetBuddy](https://github.com/terry-sharon/budgetbuddy): A simple finance management tool.
+
+
