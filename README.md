@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I'm Terry!<br><br> I'm an IT student at Strathmore University<br><br> Skills & Tools<br>**Languages**: HTML, CSS, PHP, C++, A bit of java,learning python <br>**Databases**: MySQL<br>**Tools**: VSCode, Currently learning Git<br>In the process of learning Frameworks<br><br>##Projects<br>-[BudgetBuddy](https://github.com/terry-sharon/budgetbuddy): A simple finance management tool.<br>-[File Management System](https://github.com/terry-sharon/File-Management-System): working on it
+Hi, I'm Terry!<br><br> I'm an IT student at Strathmore University<br><br> Skills & Tools<br>**Languages**: HTML, CSS, PHP, C++, A bit of java,learning python <br>**Databases**: MySQL<br>**Tools**: VSCode, Sublime, IntelliJ Currently learning Git<br>In the process of learning Frameworks<br><br>##Projects<br>-[BudgetBuddy](https://github.com/terry-sharon/budgetbuddy): A simple finance management tool.<br>-[File Management System](https://github.com/terry-sharon/File-Management-System): working on it
 
 
 ## 🌐 Socials
